@@ -136,6 +136,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hedgedocs.com/guides/hedgehog-engine/blueblur/locations/sound/</loc>
+         <lastmod>2023-05-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hedgedocs.com/guides/hedgehog-engine/rangers/animation/import-export/</loc>
          <lastmod>2023-05-21</lastmod>
          <changefreq>daily</changefreq>
