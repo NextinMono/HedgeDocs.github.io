@@ -176,6 +176,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hedgedocs.com/guides/hedgehog-engine/unleashed/levels/glvl/</loc>
+         <lastmod>2023-05-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hedgedocs.com/guides/nn/marathon/levels/glvl/</loc>
          <lastmod>2023-05-23</lastmod>
          <changefreq>daily</changefreq>
@@ -282,6 +287,11 @@
     </url>
     <url>
          <loc>https://hedgedocs.com/tools/hedgehog-engine/sonic2013/levels/</loc>
+         <lastmod>2023-05-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hedgedocs.com/tools/hedgehog-engine/unleashed/files/</loc>
          <lastmod>2023-05-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
